@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Resize Window Width"
+  },
+  "chooseWidth": {
+    "message": "Window width (px):"
+  },
+  "setWidth": {
+    "message": "Set Custom Width"
+  },
+  "alertMessage": {
+    "message": "Please enter a valid width."
+  }
+}

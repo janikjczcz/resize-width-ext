@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Change window width</title>
+</head>
+<body>
+  <style>
+    body {
+        width:200px;
+      display:flex;
+      flex-flow: column;
+      gap: 2rem;
+    }
+    .section, form {
+      display:flex;
+      flex-flow: column;
+      gap: 0.5rem;
+      padding:0.5rem;
+    }
+
+    button {width: 150px;}
+    input {width: 120px;}
+  </style>
+
+<section class="section">
+    <h1 id="title"></h1>
+  <button id="w480">480px</button>
+  <button id="w768">768px</button>
+  <button id="w1440">1440px</button>
+</section>
+<section class="section">
+  <form>
+  <label id="custom-width-label" for="window-width"></label>
+  <input id="window-width" name="window-width" type="number" />
+  <button type="submit" id="custom-width-submit"></button>
+</form>
+</section>
+<script src="script.js"></script>
+</body>
+</html>

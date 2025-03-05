@@ -1,0 +1,15 @@
+{
+  "extensionName": {
+    "message": "Změň šírku okna"
+  },
+  "chooseWidth": {
+    "message": "Šířka okna (px):"
+  },
+  "setWidth": {
+    "message": "Nastavit vlastní šířku"
+  },
+  "alertMessage": {
+    "message": "Zadejte platnou šířku."
+  }
+  
+}
