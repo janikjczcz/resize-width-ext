@@ -2,6 +2,9 @@
   "extensionName": {
     "message": "Změň šírku okna"
   },
+  "extensionDescription": {
+    "message": "Jednoduchý doplněk pro změnu šířky okna"
+  },
   "chooseWidth": {
     "message": "Šířka okna (px):"
   },
@@ -10,6 +13,5 @@
   },
   "alertMessage": {
     "message": "Zadejte platnou šířku."
-  }
-  
+  } 
 }

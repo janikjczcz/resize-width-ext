@@ -2,6 +2,9 @@
   "extensionName": {
     "message": "Resize Window Width"
   },
+  "extensionDescription": {
+    "message": "Simple extension to change window width"
+  },
   "chooseWidth": {
     "message": "Window width (px):"
   },
