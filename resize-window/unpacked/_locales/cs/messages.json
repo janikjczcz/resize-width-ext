@@ -1,6 +1,9 @@
 {
   "extensionName": {
-    "message": "Změnit šířku okna"
+    "message": "Změna šířky okna – Rychlá a snadná změna šířky okna"
+  },
+  "extensionTitle": {
+    "message": "Změna šířky okna"
   },
   "extensionDescription": {
     "message": "Jednoduchý doplněk pro změnu šířky okna"

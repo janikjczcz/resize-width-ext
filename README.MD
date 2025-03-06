@@ -1,7 +1,7 @@
 # Resize Window
 __Resize Window is a Chrome extension for changing window width__
 
-![Resize Window Extension screenshot](/docs/screenshot.png)
+![Resize Window Extension screenshot](/docs/screenshot.jpg)
 
 ## Features
 
@@ -25,8 +25,9 @@ __Resize Window is a Chrome extension for changing window width__
 
 ## Changelog
 
-`1.2.2` -  __2025-03-06__
+`1.2.3` -  __2025-03-06__
 - Fixed version in manifest
+- Prepared extension for chrome web store
 
 `1.2.1` -  __2025-03-06__
 - Added zip file

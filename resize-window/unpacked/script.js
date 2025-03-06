@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   document.title = chrome.i18n.getMessage("extensionName");
   document.getElementById("title").innerText =
-    chrome.i18n.getMessage("extensionName");
+    chrome.i18n.getMessage("extensionTitle");
   document.getElementById("w480").innerText =
     chrome.i18n.getMessage("width480");
   document.getElementById("w768").innerText =
