@@ -18,11 +18,15 @@ __Resize Window is a Chrome extension for changing window width__
 
 ## Installation
 
-1. Download the extension from **[resize-window](https://github.com/janikjczcz/resize-width-ext/tree/main/resize-window)** folder
+1. Download the extension as a zip file **[resize-window.zip](https://github.com/janikjczcz/resize-width-ext/tree/main/resize-window/archive/resize-window.zip)** 
+2. Extract the archive
 2. Go to Chrome -> Settings -> Extensions and allow Developer Mode
 3. Click on Load Unpacked and select the unpacked extension folder
 
 ## Changelog
+
+`1.2.1` -  __2025-03-06__
+- Added zip file
 
 `1.2.0` -  __2025-03-06__
 - Improved localisation
