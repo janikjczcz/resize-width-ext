@@ -8,6 +8,6 @@
     "author": "Jaroslav Janik",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "window-size-icon.png"
+        "default_icon": "resize-window.png"
     }
 }

@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "Změnit šířku okna"
+  },
+  "extensionDescription": {
+    "message": "Jednoduchý doplněk pro změnu šířky okna"
+  },
+  "width480": {
+    "message": "Šířka 480px"
+  },
+  "width768": {
+    "message": "Šířka 768px"
+  },
+  "width1440": {
+    "message": "Šířka 1440px"
+  },
+  "chooseWidth": {
+    "message": "Šířka okna (px):"
+  },
+  "chooseWidthPlaceholder": {
+    "message": "Zadejte šířku"
+  },
+  "setWidth": {
+    "message": "Nastavit šířku"
+  },
+  "alertMessage": {
+    "message": "Zadejte platnou šířku."
+  }
+}

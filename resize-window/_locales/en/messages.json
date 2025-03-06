@@ -1,0 +1,29 @@
+{
+  "extensionName": {
+    "message": "Resize Window"
+  },
+  "extensionDescription": {
+    "message": "Simple extension to change window width"
+  },
+  "width480": {
+    "message": "480px Width"
+  },
+  "width768": {
+    "message": "768px Width"
+  },
+  "width1440": {
+    "message": "1440px Width"
+  },
+  "chooseWidth": {
+    "message": "Custom Width: (px):"
+  },
+  "chooseWidthPlaceholder": {
+    "message": "Enter width"
+  },
+  "setWidth": {
+    "message": "Set Width"
+  },
+  "alertMessage": {
+    "message": "Please enter a valid width."
+  }
+}

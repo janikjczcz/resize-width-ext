@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  max-width: 320px;
+  height: auto;
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  background: #f9f9f9;
+  color: #333;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 0.625rem;
+}
+
+button {
+  width: 100%;
+  padding: 0.625rem;
+  margin: 0.3125rem 0;
+  border: none;
+  border-radius: 0.3125rem;
+  background: #007bff;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0.3125rem 0;
+  border: 0.0625rem solid #ccc;
+  border-radius: 0.25rem;
+}
+
+.custom-width-container {
+  text-align: center;
+  margin-top: 0.625rem;
+}
