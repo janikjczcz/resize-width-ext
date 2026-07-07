@@ -28,6 +28,10 @@ __Resize Window is a Chrome extension for changing window width__
 
 ## Changelog
 
+`1.2.4` -  __2026-07-07__
+- Extension window closes automatically after width is changed
+- Custom width value can by set by Enter key
+
 `1.2.3` -  __2025-03-06__
 - Fixed version in manifest
 - Prepared extension for chrome web store
